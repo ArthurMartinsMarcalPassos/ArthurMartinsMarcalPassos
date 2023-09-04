@@ -12,4 +12,4 @@ ArthurMartinsMarcalPassos
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurMartinsMarcalPassos&show_icons=true&theme=transparent)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArthurMartinsMarcalPassos&bg_color=d9ffd1&color=07503a&line=00c267&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArthurMartinsMarcalPassos&bg_color=131420&color=005aad&line=036a96&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
